@@ -1,0 +1,4 @@
+discord.py==1.0.1
+asyncio == 3.4.3
+datetime == 4.3
+youtube-dl == 2020.3.6
