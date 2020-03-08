@@ -220,4 +220,5 @@ async def 현재곡(ctx):
     else:
         await ctx.send("에러 : Error - `아무 노래도 실행 중이지 않습니다`")
 
-bot.run(config['token'])
+access_token = os.environ["BOT_TOKEN"]
+bot.run(acess_token)
