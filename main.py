@@ -236,4 +236,4 @@ async def 현재곡(ctx):
         await ctx.send("에러 : Error - `아무 노래도 실행 중이지 않습니다`")
 
 
-bot.run("NjgyMTcxNzM2OTk2ODM5NDMw.XmTh4g.Rx9VPuw57fGWCTEZdQKcoOo99ac")
+bot.run("NjgyMTcxNzM2OTk2ODM5NDMw.XnAgUw.akMbkjPpgFNGW25tA535Tmu_g04")
